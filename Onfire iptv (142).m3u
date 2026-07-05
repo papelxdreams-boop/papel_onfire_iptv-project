@@ -10,11 +10,23 @@ https://cdn-tt.pages.dev/ch2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 3
 https://cdn-tt.pages.dev/ch3.m3u8
 
+#EXTINF:-1 tvg-id="BangladeshTelevision.bd" tvg-logo="https://i.imgur.com/5OE2FDt.png" group-title="Entertainment",BTV National
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="SangsadTV.bd" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="Legislative",Sangsad TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-id="BangladeshTelevision.bd" tvg-logo="https://i.imgur.com/5OE2FDt.png" group-title="Entertainment",BTV National
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-logo="https://i.imgur.com/X0JJlOX.png" group-title="General",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-logo="https://i.imgur.com/lRpkGHj.png" group-title="News",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-id="NTV.bd" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="General",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="General",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="EkattorTV.bd" tvg-logo="https://i.imgur.com/zoLwwUK.png" group-title="News",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
@@ -49,23 +61,11 @@ https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-id="ATNNews.bd" tvg-logo="https://i.imgur.com/4qZQKjo.png" group-title="News",ATN News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.bd" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="General",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-
-#EXTINF:-1 tvg-id="RTV.bd" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="General",RTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="BanglaVision.bd" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="General",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-logo="https://i.imgur.com/gxL05Y4.png" group-title="General",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-
-#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-logo="https://i.imgur.com/lRpkGHj.png" group-title="News",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 tvg-id="ChannelI.bd" tvg-logo="https://i.imgur.com/X0JJlOX.png" group-title="General",Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-logo="https://i.imgur.com/F62GUqS.png" group-title="Entertainment",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
