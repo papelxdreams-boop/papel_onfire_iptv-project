@@ -208,6 +208,182 @@ https://book4u.top/worker/index.php?path=api/aec911dc04/playlist.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=545&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/dhoom-music-bangla.png" group-title="SM_IPTV",Dhoom Music Bangla
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=3006
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="SM_IPTV",Sangeet Bangla
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zoom.png" group-title="SM_IPTV",ZOOM
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/e-24.png" group-title="SM_IPTV",E 24
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=591
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zing.jpg" group-title="SM_IPTV",Zing
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/da99628d15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-tashan.png" group-title="SM_IPTV",9X Tashan
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=732
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="SM_IPTV",9XM
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://madanitv.assadikb.workers.dev/live.php?id=587&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jhakaas.png" group-title="SM_IPTV",9x Jhakaas
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=441
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jalwa.png" group-title="SM_IPTV",9X Jalwa
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=440
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/music-india.png" group-title="SM_IPTV",Music India
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-music.png" group-title="SM_IPTV",B4U Music
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/60fb3f6a8b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/dangal-2.png" group-title="SM_IPTV",DANGAL 2
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b-flix.png" group-title="SM_IPTV",NH Bolly Flix
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=3336
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-movies.png" group-title="SM_IPTV",Goldmines Movies
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines-bollywood.png" group-title="SM_IPTV",Goldmines Bollywood
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=b80579f2-22d3-4b12-881e-60139810a791
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/goldmines.link" group-title="SM_IPTV",Goldmines
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pix-hd.png" group-title="SM_IPTV",Sony PIX HD
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/0d6787eb3a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/mtv-india.png" group-title="SM_IPTV",MTV India
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-marathi.png" group-title="SM_IPTV",Sony Marathi
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009259
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-bollywood.png" group-title="SM_IPTV",Colors Cineplex Bollywood
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=1763
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-superhit.png" group-title="SM_IPTV",Colors Cineplex Superhit
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=1450
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-kadak.png" group-title="SM_IPTV",B4U Kadak
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=1295
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/oscar-movies.png" group-title="SM_IPTV",Oscar Movies
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=883
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/maha-movies.jpg" group-title="SM_IPTV",Maha Movies
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=809
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-action.png" group-title="SM_IPTV",Zee Action
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/f3311c7bbe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg" group-title="SM_IPTV",Zee Bollywood
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/3547925ef0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max2.png" group-title="SM_IPTV",Sony MAX2
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/a5d2c9a383/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/and-pictures-hd.png" group-title="SM_IPTV",And Pictures HD
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/e4b503da70/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/b4u-movies.png" group-title="SM_IPTV",B4U Movies
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/33d888b898/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png" group-title="SM_IPTV",Colors Cineplex HD
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://madanitv.assadikb.workers.dev/live.php?id=1477&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max.png" group-title="SM_IPTV",Sony MAX
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/9bcb965282/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/shemaroo-tv.png" group-title="SM_IPTV",Shemaroo TV
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=2571fc63-ed1e-4107-b92d-bd4335d601dc
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-wah.png" group-title="SM_IPTV",Sony Wah
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png" group-title="SM_IPTV",Zee Cafe HD
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/f914787389/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-infinity-hd.png" group-title="SM_IPTV",Colors Infinity HD
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://madanitv.assadikb.workers.dev/live.php?id=1158&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol.png" group-title="SM_IPTV",Zee Anmol
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/cf342d11fc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/rishtey.png" group-title="SM_IPTV",Rishtey
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://djplabon.aminmuaz636.workers.dev/live.php?id=279
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/and-tv-hd.png" group-title="SM_IPTV",And TV HD
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/c8b4a2b335/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pal.png" group-title="SM_IPTV",Sony Pal
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png" group-title="SM_IPTV",Sony HD (SET HD)
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sab.png" group-title="SM_IPTV",Sony SAB HD
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/dangal.png" group-title="SM_IPTV",Dangal
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-hd.png" group-title="SM_IPTV",Colors HD
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
